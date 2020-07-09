@@ -1,0 +1,47 @@
+html {
+    background-color: #e69a4e;
+    font-size: 24px;
+    font-family: <link href="https://fonts.googleapis.com/css?family=Calistoga&display=swap" rel="stylesheet">;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: -3px 3px 1px white;
+}
+
+h3 {
+    font-size: 40px;
+    text-align: left;
+}
+
+p {
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    text-align: left;
+}
+
+li {
+    font-size: 20px;
+    line-height: 1;
+    letter-spacing: 0.5px;
+    color: black;
+    text-align: left;
+}
+
+body {
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #ab7137;
+    padding: 0 31px 31px 31px;
+    border: 5px solid black;
+    display: ;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
